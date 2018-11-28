@@ -76,28 +76,21 @@ Extension : Twitter Trends Based Advertisement for ACMS program at  Amazon, Chen
           - Bullet point
           - Bullet point
 
-    - role: Summer Intern
+    - role : Summer Intern
       time: May 2017-June 2017
       company: TATA Motors Limited,Lucknow
-      details: |
-•	Worked in the project entitled Database Management System using JAVA Technology
-•	Created the Employee Database Management System using JDBC and Oracle
+      details : |
+        •	Worked in the project entitled Database Management System using JAVA Technology
+        •	Created the Employee Database Management System using JDBC and Oracle
 
-
-          - Bullet point
-          - Bullet point
-
-    - role: Winter Intern
-      time: Nov 2016 -Jan 2017
+    - role : Winter Intern
+      time : Nov 2016 -Jan 2017
       company: TATA Consultancy Services,Lucknow
       details: |
-•	Worked as an intern in the live project entitled Global Recruitment System
-•	Created a web-based online shopping portal to allow customers to shop virtually using the internet.
-•	Used Web technology using HTML, CSS, Javascript, Bootstrap, JSP, backend using JAVA and database used Oracle.
-
-
-          - Bullet point
-          - Bullet point
+        •	Worked as an intern in the live project entitled Global Recruitment System
+        •	Created a web-based online shopping portal to allow customers to shop virtually using the internet.
+        •	Used Web technology using HTML, CSS, Javascript, Bootstrap, JSP, backend using JAVA and database used Oracle.
+oint
 
 projects:
     title: Projects
