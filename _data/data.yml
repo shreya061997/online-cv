@@ -40,12 +40,8 @@ career-profile:
     title: Career Profile
     summary: |
       Skilled in Java, C++, Python, Databases, Data Mining, Web Development ,Natural Language Processing,Blockchain and proficient in managerial skills.
-    Avid participant in local hackathons, love to contribute to open source communities, interested in building scalable systems .
+      Avid participant in local hackathons, love to contribute to open source communities, interested in building scalable systems .
 
-
-
-
-      Second paragraph if required.
 
 education:
     - degree: BTech in Computer Science
@@ -71,7 +67,7 @@ experiences:
       time: Feb 2018 - June 2018
       company: Amazon, chennai
       details: |
-Extension :Twitter Trends Based Advertisement for ACMS program at  Amazon, Chennai                                                                              
+Extension : Twitter Trends Based Advertisement for ACMS program at  Amazon, Chennai                                                                              
 •	Worked on analyzing the products related to the trends present in the hashtags collected from a popular micro-blogging website Twitter
 •	Built an Amazon and Flipkart scraper for extracting product details and pricing using python ,LXML and Beautiful Soup parser. 
 •	Created web based chrome extension to popularize the products among users
@@ -113,15 +109,15 @@ projects:
          of sentences and to achieve the translation using a n-grams model trained on the thirukural dataset.
          
        Extension :Twitter Trends Based Advertisement for ACMS program at  Amazon, Chennai                                                           Feb 2018 – June 2018                    
-•	Worked on analyzing the products related to the trends present in the hashtags collected from a popular micro-blogging website Twitter
-•	Built an Amazon and Flipkart scraper for extracting product details and pricing using python ,LXML and Beautiful Soup parser. 
-•	Created web based chrome extension to popularize the products among users
-  
-       Breast Cancer Detection                                                                                                                                                                          Aug 2017 - Nov 2017
-•	Created an accurate model to predict  the tumor :malignant or benign from the tumor cell details.
-•	Modeled using decision tree, Random forest, Extra trees classifier.
-•	Used majority voting among the different decision trees and calculated the probability of the particular tumor
-    assignments:
+        •	Worked on analyzing the products related to the trends present in the hashtags collected from a popular micro-blogging website Twitter
+        •	Built an Amazon and Flipkart scraper for extracting product details and pricing using python ,LXML and Beautiful Soup parser. 
+        •	Created web based chrome extension to popularize the products among users
+ 
+    Breast Cancer Detection:                                                                                                                                                                          Aug 2017 - Nov 2017
+        •	Created an accurate model to predict  the tumor :malignant or benign from the tumor cell details.
+        •	Modeled using decision tree, Random forest, Extra trees classifier.
+        •	Used majority voting among the different decision trees and calculated the probability of the particular tumor
+            assignments:
     
     
       - title: 
